@@ -1,9 +1,9 @@
 # NodejsTasks
 Small tasks related to Node.js
 # Develop a RESTful API to manage user information:
-Use Node.js, Express, and MongoDB to create, read, update, and delete (CRUD) user records.
-Store user information such as name, email, and password securely in the database.
-Implement proper input validation for all API requests to ensure data integrity.
+1.Use Node.js, Express, and MongoDB to create, read, update, and delete (CRUD) user records.
+2.Store user information such as name, email, and password securely in the database.
+3.Implement proper input validation for all API requests to ensure data integrity.
 # Implement authentication and authorization:
 Use JSON Web Tokens (JWT) to secure the API endpoints.
 Create an endpoint for users to sign up and login, and return a JWT upon successful authentication.
