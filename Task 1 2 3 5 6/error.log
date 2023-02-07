@@ -1,0 +1,41 @@
+ 2023-02-06T10:06:22.627Z infoooooooo
+ 2023-02-06T10:42:52.392Z No user found
+ 2023-02-06T10:43:09.933Z Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+ undefined Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+  Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+[error] 2023-02-06T10:52:10.317Z Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T10:55:22.811Z [[31MERROR[39M] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T10:59:41.681Z [[31MERROR[39M] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:00:51.096Z [[31MERROR[39M] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:01:09.132Z [ERROR] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:01:49.846Z [ERROR] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:02:41.105Z [ERROR] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:03:44.288Z [[31MERROR[39M] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:04:20.193Z [ERROR] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:05:39.467Z [[31MERROR[39M] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:05:57.263Z [[31MERROR[39M] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:06:52.714Z [[31MERROR[39M] Cast to ObjectId failed for value "63de626abd4cc21b1953554456" (type string) at path "_id" for model "User"
+2023-02-06T11:07:50.430Z [[31MERROR[39M] No user found
+2023-02-06T11:09:48.271Z [[31MERROR[39M] No user found
+2023-02-06T11:12:49.554Z - [[31MERROR[39M] - No user found
+2023-02-06T11:13:19.549Z - [[31MERROR[39M] - No user found
+2023-02-06T11:15:09.550Z - [ERROR] - No user found
+2023-02-06T11:18:58.013Z - [ERROR] - Cast to ObjectId failed for value "63de626abd4cc21b195403f23434234" (type string) at path "_id" for model "User"
+2023-02-06T11:19:24.189Z - [ERROR] - Cast to ObjectId failed for value "6" (type string) at path "_id" for model "User"
+2023-02-06T11:21:32.287Z - [ERROR] - Cast to ObjectId failed for value "211232" (type string) at path "_id" for model "User"
+2023-02-06T11:21:41.185Z - [ERROR] - Cast to ObjectId failed for value "211232" (type string) at path "_id" for model "User"
+2023-02-06T13:04:20.412Z - [ERROR] - User validation failed: email: Please fill a valid email address
+2023-02-06T13:08:52.719Z - [ERROR] - Cannot read properties of undefined (reading 'length')
+2023-02-06T13:11:50.196Z - [ERROR] - Cannot read properties of undefined (reading 'length')
+2023-02-06T13:12:24.089Z - [ERROR] - Cannot read properties of undefined (reading 'length')
+2023-02-06T13:17:22.239Z - [ERROR] - User validation failed: username: Username is required
+2023-02-06T18:42:39.741Z - [ERROR] - token is not defined
+2023-02-06T18:43:46.901Z - [ERROR] - token is not defined
+2023-02-06T18:43:52.712Z - [ERROR] - token is not defined
+2023-02-06T18:45:20.432Z - [ERROR] - token is not defined
+2023-02-06T19:11:42.596Z - [ERROR] - Unexpected token } in JSON at position 97
+2023-02-07T07:28:32.619Z - [ERROR] - Unexpected field
+2023-02-07T11:06:35.098Z - [ERROR] - Cannot read properties of undefined (reading 'validate')
+2023-02-07T11:07:04.414Z - [ERROR] - next is not defined
+2023-02-07T11:08:29.922Z - [ERROR] - next is not defined
+2023-02-07T12:03:55.973Z - [ERROR] - updateReqSchema is not a function
