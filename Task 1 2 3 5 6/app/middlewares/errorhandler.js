@@ -1,10 +1,10 @@
 const logger = require('../handlers/logger')
-function logError(err, req, res, next) {
-  next(err);
+function logError(error, req, res, next) {
+  next(error);
 }
-function returnError(err, req, res, next) {
-  logger.error(err)
-  res.status(err.statusCode || 500).json({ message: err.message });
+function returnError(error, req, res, next) {
+  logger.error(error)
+  res.status(error.statusCode || 500).json({ error: error.message });
 }
 module.exports = {
   logError,

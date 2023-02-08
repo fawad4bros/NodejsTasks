@@ -15,10 +15,12 @@ module.exports = (req, res, next) => {
         .json({ message: "You are unauthorized for this request" });
     }
     next();
+    return
   } catch (error) {
-    return res.status(500).json({
-      message: error.message,
-    });
+    next(error)
+    // return res.status(500).json({
+    //   message: error.message,
+    // });
   }
 };
 // jwt.sign({ foo: 'bar' }, privateKey, { algorithm: 'RS256' }, function(err, token) {
